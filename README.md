@@ -14,6 +14,7 @@
 * https://www.npmjs.com/package/@types/center-align ![downloads](https://img.shields.io/npm/dw/@types/center-align.svg)
 * https://www.npmjs.com/package/@types/word-wrap ![downloads](https://img.shields.io/npm/dw/@types/word-wrap.svg)
 * https://www.npmjs.com/package/@types/repeating ![downloads](https://img.shields.io/npm/dw/@types/repeating.svg)
+* https://www.npmjs.com/package/@types/isarray ![downloads](https://img.shields.io/npm/dw/@types/isarray.svg)
 
 ## Repositories
 
