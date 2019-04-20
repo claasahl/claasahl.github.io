@@ -16,6 +16,8 @@
 * https://www.npmjs.com/package/@types/repeating ![downloads](https://img.shields.io/npm/dw/@types/repeating.svg)
 * https://www.npmjs.com/package/@types/isarray ![downloads](https://img.shields.io/npm/dw/@types/isarray.svg)
 * https://www.npmjs.com/package/@types/concat-map ![downloads](https://img.shields.io/npm/dw/@types/concat-map.svg)
+* https://www.npmjs.com/package/@types/getpass ![downloads](https://img.shields.io/npm/dw/@types/getpass.svg)
+* https://www.npmjs.com/package/@types/kind-of ![downloads](https://img.shields.io/npm/dw/@types/kind-of.svg)
 
 ## Repositories
 
