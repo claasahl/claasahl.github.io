@@ -29,3 +29,4 @@
 * https://github.com/nice-registry/package-stream
 * https://github.com/scrive/scrive-apidocs
 * https://github.com/smallhelm/diff-lines
+* https://github.com/isomorphic-git/isomorphic-git
