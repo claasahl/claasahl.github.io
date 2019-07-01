@@ -1,6 +1,7 @@
 ## NPM
 
 * https://www.npmjs.com/package/create-typescript-project ![downloads](https://img.shields.io/npm/dw/create-typescript-project.svg)
+* https://www.npmjs.com/package/create-typescript-project-dependencies ![downloads](https://img.shields.io/npm/dw/create-typescript-project-dependencies.svg)
 * https://www.npmjs.com/package/@claasahl/hello_world ![downloads](https://img.shields.io/npm/dw/@claasahl/hello_world.svg)
 * https://www.npmjs.com/package/@claasahl/spotware-connect-api ![downloads](https://img.shields.io/npm/dw/@claasahl/spotware-connect-api.svg)
 * https://www.npmjs.com/package/@claasahl/spotware-protobuf ![downloads](https://img.shields.io/npm/dw/@claasahl/spotware-protobuf.svg)
