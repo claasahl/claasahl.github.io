@@ -13,6 +13,7 @@
 * https://www.npmjs.com/package/@types/starwars-names ![downloads](https://img.shields.io/npm/dw/@types/starwars-names.svg)
 * https://www.npmjs.com/package/@types/match-sorter ![downloads](https://img.shields.io/npm/dw/@types/match-sorter.svg)
 * https://www.npmjs.com/package/@types/protocol-buffers-schema ![downloads](https://img.shields.io/npm/dw/@types/protocol-buffers-schema.svg)
+* https://www.npmjs.com/package/@types/resolve-protobuf-schema ![downloads](https://img.shields.io/npm/dw/@types/resolve-protobuf-schema.svg)
 * https://www.npmjs.com/package/@types/bser ![downloads](https://img.shields.io/npm/dw/@types/bser.svg)
 * https://www.npmjs.com/package/@types/align-text ![downloads](https://img.shields.io/npm/dw/@types/align-text.svg)
 * https://www.npmjs.com/package/@types/right-align ![downloads](https://img.shields.io/npm/dw/@types/right-align.svg)
