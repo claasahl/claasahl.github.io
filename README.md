@@ -28,6 +28,7 @@
 * https://www.npmjs.com/package/diff-lines ![downloads](https://img.shields.io/npm/dw/diff-lines.svg)
 * https://www.npmjs.com/package/isomorphic-git ![downloads](https://img.shields.io/npm/dw/isomorphic-git.svg)
 * https://www.npmjs.com/package/ipaddr.js ![downloads](https://img.shields.io/npm/dw/ipaddr.js.svg)
+* https://www.npmjs.com/package/rxjs ![downloads](https://img.shields.io/npm/dw/rxjs.svg)
 
 ## Repositories
 
@@ -39,3 +40,4 @@
 * https://github.com/smallhelm/diff-lines
 * https://github.com/isomorphic-git/isomorphic-git
 * https://github.com/whitequark/ipaddr.js
+* https://github.com/ReactiveX/RxJS
