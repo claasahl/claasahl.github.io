@@ -8,6 +8,7 @@
 * https://www.npmjs.com/package/@claasahl/spotware-connect-api ![downloads](https://img.shields.io/npm/dw/@claasahl/spotware-connect-api.svg)
 * https://www.npmjs.com/package/@claasahl/spotware-protobuf ![downloads](https://img.shields.io/npm/dw/@claasahl/spotware-protobuf.svg)
 * https://www.npmjs.com/package/@claasahl/spotware-adapter ![downloads](https://img.shields.io/npm/dw/@claasahl/spotware-adapter.svg)
+* https://www.npmjs.com/package/indicators ![downloads](https://img.shields.io/npm/dw/indicators.svg)
 * https://www.npmjs.com/package/@types/react-select ![downloads](https://img.shields.io/npm/dw/@types/react-select.svg)
 * https://www.npmjs.com/package/@types/xml2js ![downloads](https://img.shields.io/npm/dw/@types/xml2js.svg)
 * https://www.npmjs.com/package/@types/starwars-names ![downloads](https://img.shields.io/npm/dw/@types/starwars-names.svg)
