@@ -43,3 +43,4 @@
 * https://github.com/isomorphic-git/isomorphic-git
 * https://github.com/whitequark/ipaddr.js
 * https://github.com/ReactiveX/RxJS
+* https://github.com/follow-redirects/follow-redirects
