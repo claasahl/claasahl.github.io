@@ -24,6 +24,7 @@
 * https://www.npmjs.com/package/@types/concat-map ![downloads](https://img.shields.io/npm/dw/@types/concat-map.svg)
 * https://www.npmjs.com/package/@types/getpass ![downloads](https://img.shields.io/npm/dw/@types/getpass.svg)
 * https://www.npmjs.com/package/@types/kind-of ![downloads](https://img.shields.io/npm/dw/@types/kind-of.svg)
+* https://www.npmjs.com/package/@types/follow-redirects ![downloads](https://img.shields.io/npm/dw/@types/follow-redirects.svg)
 * https://www.npmjs.com/package/package-stream ![downloads](https://img.shields.io/npm/dw/package-stream.svg)
 * https://www.npmjs.com/package/diff-lines ![downloads](https://img.shields.io/npm/dw/diff-lines.svg)
 * https://www.npmjs.com/package/isomorphic-git ![downloads](https://img.shields.io/npm/dw/isomorphic-git.svg)
